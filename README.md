@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/makkawy16/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/makkawy16/LeetCode-Problems/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

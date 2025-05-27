@@ -17,9 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/makkawy16/LeetCode-Problems/tree/master/0136-single-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/makkawy16/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Database
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/makkawy16/LeetCode-Problems/tree/master/0176-second-highest-salary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/makkawy16/LeetCode-Problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

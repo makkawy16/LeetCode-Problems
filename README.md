@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/makkawy16/LeetCode-Problems/tree/master/0136-single-number) |
+| [0605-can-place-flowers](https://github.com/makkawy16/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/makkawy16/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Database
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/makkawy16/LeetCode-Problems/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/makkawy16/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

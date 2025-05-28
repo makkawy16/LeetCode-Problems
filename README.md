@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/makkawy16/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/makkawy16/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/makkawy16/LeetCode-Problems/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/makkawy16/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0605-can-place-flowers](https://github.com/makkawy16/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/makkawy16/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Database
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/makkawy16/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/makkawy16/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->

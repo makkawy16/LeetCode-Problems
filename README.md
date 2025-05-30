@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makkawy16/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/makkawy16/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/makkawy16/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/makkawy16/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/makkawy16/LeetCode-Problems/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makkawy16/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/makkawy16/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/makkawy16/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/makkawy16/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Database

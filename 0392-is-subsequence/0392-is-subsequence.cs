@@ -6,12 +6,12 @@ public class Solution {
 
         while (left < s.Length && right < t.Length) {
             if (s[left] == t[right]) {
-                left++;
+                left++; // increment left if only match 
             }
-            right++;
+            right++;    // always increment right to handle order case 
         }
 
-        return left == s.Length;
+        return left == s.Length; // means all string is in t and in the same order
 
         
     }

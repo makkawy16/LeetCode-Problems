@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/makkawy16/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/makkawy16/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/makkawy16/LeetCode-Problems/tree/master/0443-string-compression) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makkawy16/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/makkawy16/LeetCode-Problems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/makkawy16/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/makkawy16/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/makkawy16/LeetCode-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makkawy16/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Database
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/makkawy16/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makkawy16/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/makkawy16/LeetCode-Problems/tree/master/0217-contains-duplicate) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/makkawy16/LeetCode-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Sliding Window
 |  |
 | ------- |
